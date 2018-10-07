@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestReflection/TestReflection.iml" filepath="$PROJECT_DIR$/TestReflection/TestReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBaeProject.iml" filepath="$PROJECT_DIR$/javaBaeProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testAnnotation/testAnnotation.iml" filepath="$PROJECT_DIR$/testAnnotation/testAnnotation.iml" />
+    </modules>
+  </component>
+</project>
